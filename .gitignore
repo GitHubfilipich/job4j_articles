@@ -28,3 +28,4 @@ target
 hs_err_pid*
 /db-dir/articles.properties
 /db-dir/articles.script
+/db-dir/articles.backup
